@@ -1,0 +1,129 @@
+body {
+    background-color: rgb(73, 177, 163);
+  }
+
+
+  h1 h2 h3 h4 {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .avirajcom {
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 1rem;
+    margin-left: 40%;
+    margin-right: 38%;
+    font-size: 1.25rem;
+    background-color:darkgray;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0,0,0,1);  
+  }
+  #aviraj {
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 1rem;
+    margin-left: 85px;
+    font-size: 1.25rem;
+    background-color: #191913;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0,0,0,1);  
+  }
+  .rpccom {
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 1rem;
+    margin-left: 40%;
+    margin-right: 38%;
+    font-size: 1.25rem;
+    background-color:darkgray;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0,0,0,1);  
+  }
+  #rpc {
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 1rem;
+    margin-left: 85px;
+    font-size: 1.25rem;
+    background-color: #191913;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0,0,0,1);  
+  }
+ 
+  .tttcom {
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 1rem;
+    margin-left: 40%;
+    margin-right: 38%;
+    font-size: 1.25rem;
+    background-color:darkgray;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0,0,0,1);  
+  }
+  #ttt {
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 1rem;
+    margin-left: 85px;
+    font-size: 1.25rem;
+    background-color: #191913;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0,0,0,1);  
+  }
+  #feedback {
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 1rem;
+    margin-left: 45%;
+    margin-right: 38%;
+    font-size: 1.25rem;
+    background-color: #191913;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0,0,0,1);  
+  }
+
+  #h {
+    margin-left: 40%;
+    margin-right: 38%;
+  }
+  #aak1 {
+    margin-left: 42%;
+    /* margin-right: 38%; */
+    font: bold;
+  }
+  #aak {
+    margin-left: 38%;
+    /* margin-right: 38%; */
+    font: bold;
+  }
+  #Hello {
+    font-size: 40px;
+    margin-left: 46%;
+    /* margin-right: 38%; */
+    background: -webkit-linear-gradient(red, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
